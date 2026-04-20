@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @reed-way
+/src/backend/database.py      @reed-way
+/src/backend/routers/auth.py  @reed-way
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @reed-way
